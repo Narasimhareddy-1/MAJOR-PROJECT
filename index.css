@@ -19,7 +19,7 @@ ul {
 
 /* Navbar & Hero */
 .navbar {
-    background-image: url(loopstudios-landing-page-main/images/desktop/image-hero.jpg);
+    background-image: url(loopstudios-landing-page-main/images/desktop/image-hero.jpghttps://res.cloudinary.com/ddfcytozf/image/upload/v1748251541/image-hero_dxorzh.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -29,7 +29,7 @@ ul {
     flex-direction: column;
     justify-content: flex-start;
 }
-/* .navbar-container {
+.navbar-container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -37,7 +37,7 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
-} */
+}
 .navbar-logo {
     height: 32px;
 }
